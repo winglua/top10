@@ -7043,6 +7043,9 @@ dd {
     }
 
     /*    */
+    .singe-post-banner {
+        display: none;
+    }
 
     .sidebar--right {
         display: none;
@@ -7058,17 +7061,19 @@ dd {
     }
 
     .sub-categories {
-       padding: 0 15px;
+        padding: 0 15px;
 
     }
-    
+
     .sub-categories .entry__title {
         font-size: 18px;
         padding: 0;
     }
-    .sub-categories .entry__excerpt p{
+
+    .sub-categories .entry__excerpt p {
         display: none;
     }
+
     .sub-categories .card__body {
         padding: 10px;
     }
